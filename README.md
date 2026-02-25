@@ -2,7 +2,7 @@
 ### **Institutional Supply Chain Anti-Fragility & Risk Orchestration Engine**
 
 [![System Status: Operational](https://img.shields.io/badge/System_Status-Operational-0070AD?style=for-the-badge)](https://github.com/jagan969646)
-[![Stack: Python/Stochastic/Streamlit](https://img.shields.io/badge/Stack-Python%20%7C%20Stochastic%20%7C%20Streamlit-white?style=for-the-badge)](https://github.com/jagan969646/Capgemini_Sovereignty_AI)
+[![Stack: Python/Stochastic](https://img.shields.io/badge/Stack-Python%20%7C%20Stochastic%20%7C%20Streamlit-white?style=for-the-badge)](https://github.com/jagan969646/Capgemini_Sovereignty_AI)
 [![Stack: Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge)](https://capgeminisovereigntyai-ga8tcv7ftguavrm8pkvbnm.streamlit.app/)
 
 > **"Get The Future You Want."** This project is an architectural demonstration of Sovereign Intelligence applied to global supply chain volatility, aligning with Capgemini Invent's strategic digital transformation goals.
@@ -95,6 +95,7 @@ Capgemini Invent | Strategic AI Architecture | v16.0
 3.  **Screenshot:** Take a screenshot of your running Streamlit app and place the image in your repository. Update the `README` to link to it for maximum impact.
 
 **Would you like me to create a "Technical Design Document" (TDD) that goes deeper into th
+
 
 
 
