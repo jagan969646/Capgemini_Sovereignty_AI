@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-from scipy.stats import norm
+
 import os
 import time
 from datetime import datetime
@@ -267,3 +267,4 @@ DIRECTIVE: { "Resilience protocols active. System has absorbed the shock." if st
 
 
 st.markdown("<center style='color: #0070AD; padding: 30px;'>Capgemini Invent | Get The Future You Want | Institutional Visionary v16.0</center>", unsafe_allow_html=True)
+
