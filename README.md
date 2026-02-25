@@ -53,7 +53,7 @@ A glassmorphic executive dashboard that provides:
 ## 🛠️ Installation & Deployment
 
 ### 1. Repository Setup
-```bash
+Bash
 git clone [https://github.com/](https://github.com/)[your-username]/Capgemini_Sovereignty_AI.git
 cd Capgemini_Sovereignty_AI
 ### 2. Environment Configuration
@@ -93,6 +93,7 @@ Capgemini Invent | Strategic AI Architecture | v16.0
 1.  **Create the file:** `README.md` in your main folder.
 2.  **Paste:** The text above.
 3.  **Screenshot:** Take a screenshot of your running Streamlit app and place the image in your repository. Update the `README` to link to it for maximum impact.
+
 
 
 
