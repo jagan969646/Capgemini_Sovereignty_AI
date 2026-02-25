@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+
 from scipy.stats import norm
 import os
 import time
@@ -265,5 +264,6 @@ DIRECTIVE: { "Resilience protocols active. System has absorbed the shock." if st
     """
     st.code(memo, language="markdown")
     st.download_button("Download Strategy Report", data=memo, file_name="Sovereign_Brief.txt")
+
 
 st.markdown("<center style='color: #0070AD; padding: 30px;'>Capgemini Invent | Get The Future You Want | Institutional Visionary v16.0</center>", unsafe_allow_html=True)
