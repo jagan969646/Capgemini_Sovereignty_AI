@@ -94,7 +94,8 @@ Capgemini Invent | Strategic AI Architecture | v16.0
 2.  **Paste:** The text above.
 3.  **Screenshot:** Take a screenshot of your running Streamlit app and place the image in your repository. Update the `README` to link to it for maximum impact.
 
-**Would you like me to create a "Technical Design Document" (TDD) that goes deeper into th
+
+
 
 
 
