@@ -55,8 +55,7 @@ A glassmorphic executive dashboard that provides:
 ```bash
 git clone [https://github.com/](https://github.com/)[your-username]/Capgemini_Sovereignty_AI.git
 cd Capgemini_Sovereignty_AI
-
-2. Environment Configuration
+### 2. Environment Configuration
 Install the institutional dependency stack and set up your security layer:
 
 Bash
@@ -95,3 +94,4 @@ Capgemini Invent | Strategic AI Architecture | v16.0
 3.  **Screenshot:** Take a screenshot of your running Streamlit app and place the image in your repository. Update the `README` to link to it for maximum impact.
 
 **Would you like me to create a "Technical Design Document" (TDD) that goes deeper into th
+
