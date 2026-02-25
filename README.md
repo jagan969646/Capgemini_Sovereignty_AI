@@ -3,7 +3,7 @@
 
 [![System Status: Operational](https://img.shields.io/badge/System_Status-Operational-0070AD?style=for-the-badge)](https://github.com/)
 [![Stack: Python/Stochastic/Streamlit](https://img.shields.io/badge/Stack-Python%20%7C%20Stochastic%20%7C%20Streamlit-white?style=for-the-badge)](https://github.com/)
-[![Stack: Streamlit](https://img.shields.io/badge/Stack-Python%20%7C%20Stochastic%20%7C%20Streamlit-white?style=for-the-badge)]([[https://github.com/](https://capgeminisovereigntyai-ga8tcv7ftguavrm8pkvbnm.streamlit.app/](https://capgeminisovereigntyai-ga8tcv7ftguavrm8pkvbnm.streamlit.app)
+[![Stack: Python/Stochastic/Streamlit](https://capgeminisovereigntyai-ga8tcv7ftguavrm8pkvbnm.streamlit.app/)
 
 > **"Get The Future You Want."** This project is an architectural demonstration of Sovereign Intelligence applied to global supply chain volatility, aligning with Capgemini Invent's strategic digital transformation goals.
 
